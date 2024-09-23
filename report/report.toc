@@ -1,0 +1,16 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}The Normalized Nonlinear Fractional Schrödinger Equation (NNFSE)}{1}{section.2}%
+\contentsline {section}{\numberline {3}SSFM Algorithm and Implementation}{1}{section.3}%
+\contentsline {section}{\numberline {4}Results and Discussion}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Linear Schrödinger Equation (LSE)}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Nonlinear Schrödinger Equation (NLSE)}{3}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Effect of Step Potential}{4}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Effect of Harmonic Potential}{4}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Normalized Nonlinear Fractional Schrödinger Equation (NNFSE)}{5}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Effect of Fractional Derivative ($\alpha = 1.2$)}{5}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Effect of Fractional Derivative ($\alpha = 1.5$)}{5}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Effect of Fractional Derivative ($\alpha = 1.8$)}{6}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}Effect of Harmonic Potential}{6}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}Effect of Quartic Potential}{6}{subsubsection.4.3.5}%
+\contentsline {section}{\numberline {5}Conclusion}{7}{section.5}%

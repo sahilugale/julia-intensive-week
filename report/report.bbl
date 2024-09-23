@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{bezanson2017julia}
+Jeff Bezanson, Alan Edelman, Stefan Karpinski, and Viral~B Shah.
+\newblock Julia: A fresh approach to numerical computing.
+\newblock {\em SIAM review}, 59(1):65--98, 2017.
+
+\bibitem{Huang:17}
+Xianwei Huang, Xiaohui Shi, Zhixiang Deng, Yanfeng Bai, and Xiquan Fu.
+\newblock Potential barrier-induced dynamics of finite energy airy beams in
+  fractional schr\"{o}dinger equation.
+\newblock {\em Opt. Express}, 25(26):32560--32569, Dec 2017.
+
+\bibitem{shankar2012principles}
+Ramamurti Shankar.
+\newblock {\em Principles of quantum mechanics}.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{weideman1986split}
+JAC Weideman and Ben~M Herbst.
+\newblock Split-step methods for the solution of the nonlinear schr{\"o}dinger
+  equation.
+\newblock {\em SIAM Journal on Numerical Analysis}, 23(3):485--507, 1986.
+
+\end{thebibliography}
