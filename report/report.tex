@@ -168,8 +168,8 @@ Transform (DFT) and its inverse allow efficient manipulation of the wave functio
 
 \section{Results and Discussion}
 
-The following results are distrubuted in three parts, first to do a sanity check of the code, I solved the NNFSE
-with $\alpha = 2$ and $s = 0$ to recover the Linear Schrödinger Equation (LSE). The second part is to 
+The following results are distributed in three parts, first to do a sanity check of the code, I solved the NNFSE
+with $\alpha = 2$, $s = 0$ and $g = 0$, to recover the Linear Schrödinger Equation (LSE). The second part is to 
 solve the NLSE to observe the Nonlinear behavious of the wave function. The third part is to solve the NNFSE
 with different values of $\alpha$ and $s$ to observe the effect of fractional derivatives and saturation parameter.
 
@@ -353,14 +353,12 @@ wave which can be seen in the figures \ref{fig:nlse_evolution_harmonic} and
 \end{figure}
 
 The harmonic potential $V(x) = x^2$ acts as a restoring force, confining the wave packet to the
-center of the potential well. The wave packet oscillates back and forth within the potential well,
-exhibiting a harmonic motion. The potential well acts as a trap, preventing the wave packet from
-dispersing and maintaining its shape over time.
-
+center of the potential well. The wave packet oscillates back and forth within the well,
+exhibiting a harmonic motion. Hence, these type of oscillations
+are also called \textbf{breather solutions} in the context of Nonlinear Schrödinger Equation (NLSE).
 \subsection{Normalized Nonlinear Fractional Schrödinger Equation (NNFSE)}
-
 Finally, I implemented the evolution of Normalized Nonlinear Fractional Schrödinger Equation (NNFSE) with different 
-values of $\alpha$ observe the effect of fractional derivatives on the wave function. 
+values of $\alpha$ to observe the effect of fractional derivatives on the wave function. 
 \begin{table}[h!]
 	\centering
 	\begin{tabular}{c|c}
@@ -454,13 +452,12 @@ the correctness of the implementation. This can be observed in the figures \ref{
 	\label{fig:nnfse_heatmap_harmonic}
 \end{figure}
 
-The harmonic potential $V(x) = x^2$ acts as a restoring force, confining the wave packet to the
-center of the potential well. The wave packet oscillates back and forth within the potential well,
-exhibiting a harmonic motion. The potential well acts as a trap, preventing the wave packet from
-dispersing and maintaining its shape over time. This can be clearly seen in the figures \ref{fig:nnfse_evolution_harmonic} and
+Similar to what we observed in the NLSE simulations \ref{fig:nlse_evolution_harmonic} and \ref{fig:nlse_heatmap_harmonic}, The harmonic potential $V(x) = x^2$ acts as a restoring force, confining the wave packet to the
+center of the potential well. This can be clearly seen in the figures \ref{fig:nnfse_evolution_harmonic} and
 \ref{fig:nnfse_heatmap_harmonic}. Also, I changed $\alpha = 1.1$ to observe the effect of
 fractional derivatives on the wave function. This makes it more fractional than other cases. The effect of this
-can be observed as the oscillations are more erratic and spread out than the Nonlinear Schrödinger Equation (NLSE).
+can be observed as the oscillations are more erratic and spread out than the Nonlinear Schrödinger Equation (NLSE). Also the peaks are much sharper and the wave packet is more confined to the center of the 
+potential well.
 
 
 \subsubsection{Effect of Quartic Potential}
