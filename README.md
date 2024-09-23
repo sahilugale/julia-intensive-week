@@ -8,3 +8,5 @@ The material is divided into the following sections:
 
 1. Tasks for the week
 2. Project for the intensive week
+
+Tasks file are work in progress....
