@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.26)  23 SEP 2024 02:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.26)  23 SEP 2024 03:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -552,24 +552,24 @@ LaTeX Warning: Unused global option(s):
 (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
  (C:\Users\slyro\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count350
@@ -628,27 +628,27 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 41.
 (report.out) (report.out)
 \@outlinefile=\write4
 \openout4 = `report.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
  (C:\Users\slyro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
  (C:\Users\slyro\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 50.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 58.
  (C:\Users\slyro\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 <images/uni_koeln.png, id=63, 1204.5pt x 1204.5pt>
 File: images/uni_koeln.png Graphic file (type png)
 <use images/uni_koeln.png>
-Package pdftex.def Info: images/uni_koeln.png  used on input line 65.
+Package pdftex.def Info: images/uni_koeln.png  used on input line 73.
 (pdftex.def)             Requested size: 216.23764pt x 216.2309pt.
  [1
 
@@ -663,33 +663,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--3
 \openout5 = `report.toc'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--98
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 99--110
+Underfull \hbox (badness 2150) in paragraph at lines 107--118
 []\T1/cmr/m/n/10 The re-search for the Non-lin-ear Schrödinger Equa-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--125
+Underfull \hbox (badness 10000) in paragraph at lines 127--133
 
  []
 
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 136.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 144.
 
-Underfull \hbox (badness 1087) in paragraph at lines 155--165
+Underfull \hbox (badness 1087) in paragraph at lines 163--173
 \T1/cmr/m/n/10 The Split-Step Fourier Method (SSFM) is an ef-fi-cient
  []
 
 
-Underfull \hbox (badness 1845) in paragraph at lines 155--165
+Underfull \hbox (badness 1845) in paragraph at lines 163--173
 \T1/cmr/m/n/10 The al-go-rithm works by di-vid-ing the com-plex evo-lu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--165
+Underfull \hbox (badness 10000) in paragraph at lines 163--173
 
  []
 
@@ -697,7 +697,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--165
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.165 
+l.173 
        [1
 
 {C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
@@ -710,7 +710,7 @@ pdfTeX warning: pdflatex (file ../figs/lse_evolution.pdf): PDF inclusion: found 
 <../figs/lse_evolution.pdf, id=116, 602.25pt x 451.6875pt>
 File: ../figs/lse_evolution.pdf Graphic file (type pdf)
 <use ../figs/lse_evolution.pdf>
-Package pdftex.def Info: ../figs/lse_evolution.pdf  used on input line 205.
+Package pdftex.def Info: ../figs/lse_evolution.pdf  used on input line 213.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 
@@ -718,10 +718,10 @@ pdfTeX warning: pdflatex (file ../figs/lse_heatmap.pdf): PDF inclusion: found PD
 <../figs/lse_heatmap.pdf, id=117, 602.25pt x 451.6875pt>
 File: ../figs/lse_heatmap.pdf Graphic file (type pdf)
 <use ../figs/lse_heatmap.pdf>
-Package pdftex.def Info: ../figs/lse_heatmap.pdf  used on input line 211.
+Package pdftex.def Info: ../figs/lse_heatmap.pdf  used on input line 219.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--219
+Underfull \hbox (badness 10000) in paragraph at lines 210--227
 
  []
 
@@ -740,7 +740,7 @@ pdfTeX warning: pdflatex (file ../figs/lse_comparison_heatmap.pdf): PDF inclusio
 <../figs/lse_comparison_heatmap.pdf, id=182, 602.25pt x 451.6875pt>
 File: ../figs/lse_comparison_heatmap.pdf Graphic file (type pdf)
 <use ../figs/lse_comparison_heatmap.pdf>
-Package pdftex.def Info: ../figs/lse_comparison_heatmap.pdf  used on input line 228.
+Package pdftex.def Info: ../figs/lse_comparison_heatmap.pdf  used on input line 236.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 
@@ -748,10 +748,10 @@ pdfTeX warning: pdflatex (file ../figs/lse_comparison_lineplot.pdf): PDF inclusi
 <../figs/lse_comparison_lineplot.pdf, id=183, 602.25pt x 451.6875pt>
 File: ../figs/lse_comparison_lineplot.pdf Graphic file (type pdf)
 <use ../figs/lse_comparison_lineplot.pdf>
-Package pdftex.def Info: ../figs/lse_comparison_lineplot.pdf  used on input line 243.
+Package pdftex.def Info: ../figs/lse_comparison_lineplot.pdf  used on input line 251.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
 []\T1/cmr/bx/n/12 Nonlinear Schrödinger Equa-tion
  []
 
@@ -761,7 +761,7 @@ pdfTeX warning: pdflatex (file ../figs/nlse_evolution_00.pdf): PDF inclusion: fo
 <../figs/nlse_evolution_00.pdf, id=188, 602.25pt x 451.6875pt>
 File: ../figs/nlse_evolution_00.pdf Graphic file (type pdf)
 <use ../figs/nlse_evolution_00.pdf>
-Package pdftex.def Info: ../figs/nlse_evolution_00.pdf  used on input line 297.
+Package pdftex.def Info: ../figs/nlse_evolution_00.pdf  used on input line 305.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 
@@ -769,7 +769,7 @@ pdfTeX warning: pdflatex (file ../figs/nlse_heatmap_00.pdf): PDF inclusion: foun
 <../figs/nlse_heatmap_00.pdf, id=189, 602.25pt x 451.6875pt>
 File: ../figs/nlse_heatmap_00.pdf Graphic file (type pdf)
 <use ../figs/nlse_heatmap_00.pdf>
-Package pdftex.def Info: ../figs/nlse_heatmap_00.pdf  used on input line 303.
+Package pdftex.def Info: ../figs/nlse_heatmap_00.pdf  used on input line 311.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -780,7 +780,7 @@ pdfTeX warning: pdflatex (file ../figs/nlse_evolution_step.pdf): PDF inclusion: 
 <../figs/nlse_evolution_step.pdf, id=190, 602.25pt x 451.6875pt>
 File: ../figs/nlse_evolution_step.pdf Graphic file (type pdf)
 <use ../figs/nlse_evolution_step.pdf>
-Package pdftex.def Info: ../figs/nlse_evolution_step.pdf  used on input line 311.
+Package pdftex.def Info: ../figs/nlse_evolution_step.pdf  used on input line 319.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 [3 <../figs/lse_comparison_heatmap.pdf> <../figs/lse_comparison_lineplot.pdf
 
@@ -794,7 +794,7 @@ pdfTeX warning: pdflatex (file ../figs/nlse_heatmap_step.pdf): PDF inclusion: fo
 <../figs/nlse_heatmap_step.pdf, id=273, 602.25pt x 451.6875pt>
 File: ../figs/nlse_heatmap_step.pdf Graphic file (type pdf)
 <use ../figs/nlse_heatmap_step.pdf>
-Package pdftex.def Info: ../figs/nlse_heatmap_step.pdf  used on input line 318.
+Package pdftex.def Info: ../figs/nlse_heatmap_step.pdf  used on input line 326.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 
@@ -802,7 +802,7 @@ pdfTeX warning: pdflatex (file ../figs/nlse_evolution_harmonic.pdf): PDF inclusi
 <../figs/nlse_evolution_harmonic.pdf, id=278, 602.25pt x 451.6875pt>
 File: ../figs/nlse_evolution_harmonic.pdf Graphic file (type pdf)
 <use ../figs/nlse_evolution_harmonic.pdf>
-Package pdftex.def Info: ../figs/nlse_evolution_harmonic.pdf  used on input line 344.
+Package pdftex.def Info: ../figs/nlse_evolution_harmonic.pdf  used on input line 352.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 
@@ -810,7 +810,7 @@ pdfTeX warning: pdflatex (file ../figs/nlse_heatmap_harmonic.pdf): PDF inclusion
 <../figs/nlse_heatmap_harmonic.pdf, id=279, 602.25pt x 451.6875pt>
 File: ../figs/nlse_heatmap_harmonic.pdf Graphic file (type pdf)
 <use ../figs/nlse_heatmap_harmonic.pdf>
-Package pdftex.def Info: ../figs/nlse_heatmap_harmonic.pdf  used on input line 350.
+Package pdftex.def Info: ../figs/nlse_heatmap_harmonic.pdf  used on input line 358.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 [4 <../figs/nlse_heatmap_00.pdf> <../figs/nlse_evolution_step.pdf
 
@@ -825,21 +825,21 @@ pdfTeX warning: pdflatex (file ../figs/nlse_evolution_harmonic.pdf): PDF inclusi
 
 pdfTeX warning: pdflatex (file ../figs/nlse_heatmap_harmonic.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 359--359
+Underfull \hbox (badness 10000) in paragraph at lines 367--367
 []\T1/cmr/bx/n/12 Normalized Non-lin-ear Frac-tional
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 384.
+(hyperref)                removing `math shift' on input line 392.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 384.
+(hyperref)                removing `\alpha' on input line 392.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 384.
+(hyperref)                removing `math shift' on input line 392.
 
 
 
@@ -847,7 +847,7 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_evolution_00.pdf): PDF inclusion: f
 <../figs/fnlse_evolution_00.pdf, id=404, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_evolution_00.pdf Graphic file (type pdf)
 <use ../figs/fnlse_evolution_00.pdf>
-Package pdftex.def Info: ../figs/fnlse_evolution_00.pdf  used on input line 388.
+Package pdftex.def Info: ../figs/fnlse_evolution_00.pdf  used on input line 396.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 
@@ -855,22 +855,22 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_heatmap_00.pdf): PDF inclusion: fou
 <../figs/fnlse_heatmap_00.pdf, id=405, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_heatmap_00.pdf Graphic file (type pdf)
 <use ../figs/fnlse_heatmap_00.pdf>
-Package pdftex.def Info: ../figs/fnlse_heatmap_00.pdf  used on input line 394.
+Package pdftex.def Info: ../figs/fnlse_heatmap_00.pdf  used on input line 402.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 402.
+(hyperref)                removing `math shift' on input line 410.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 402.
+(hyperref)                removing `\alpha' on input line 410.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 402.
+(hyperref)                removing `math shift' on input line 410.
 
 
 
@@ -878,7 +878,7 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_evolution_01.pdf): PDF inclusion: f
 <../figs/fnlse_evolution_01.pdf, id=408, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_evolution_01.pdf Graphic file (type pdf)
 <use ../figs/fnlse_evolution_01.pdf>
-Package pdftex.def Info: ../figs/fnlse_evolution_01.pdf  used on input line 406.
+Package pdftex.def Info: ../figs/fnlse_evolution_01.pdf  used on input line 414.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -889,22 +889,22 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_heatmap_01.pdf): PDF inclusion: fou
 <../figs/fnlse_heatmap_01.pdf, id=409, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_heatmap_01.pdf Graphic file (type pdf)
 <use ../figs/fnlse_heatmap_01.pdf>
-Package pdftex.def Info: ../figs/fnlse_heatmap_01.pdf  used on input line 412.
+Package pdftex.def Info: ../figs/fnlse_heatmap_01.pdf  used on input line 420.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 421.
+(hyperref)                removing `math shift' on input line 429.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 421.
+(hyperref)                removing `\alpha' on input line 429.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 421.
+(hyperref)                removing `math shift' on input line 429.
 
 
 
@@ -912,7 +912,7 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_evolution_02.pdf): PDF inclusion: f
 <../figs/fnlse_evolution_02.pdf, id=412, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_evolution_02.pdf Graphic file (type pdf)
 <use ../figs/fnlse_evolution_02.pdf>
-Package pdftex.def Info: ../figs/fnlse_evolution_02.pdf  used on input line 425.
+Package pdftex.def Info: ../figs/fnlse_evolution_02.pdf  used on input line 433.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 LaTeX Warning: Text page 5 contains only floats.
@@ -932,7 +932,7 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_heatmap_02.pdf): PDF inclusion: fou
 <../figs/fnlse_heatmap_02.pdf, id=511, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_heatmap_02.pdf Graphic file (type pdf)
 <use ../figs/fnlse_heatmap_02.pdf>
-Package pdftex.def Info: ../figs/fnlse_heatmap_02.pdf  used on input line 431.
+Package pdftex.def Info: ../figs/fnlse_heatmap_02.pdf  used on input line 439.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 
@@ -940,7 +940,7 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_evolution_har.pdf): PDF inclusion: 
 <../figs/fnlse_evolution_har.pdf, id=514, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_evolution_har.pdf Graphic file (type pdf)
 <use ../figs/fnlse_evolution_har.pdf>
-Package pdftex.def Info: ../figs/fnlse_evolution_har.pdf  used on input line 444.
+Package pdftex.def Info: ../figs/fnlse_evolution_har.pdf  used on input line 452.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -951,10 +951,10 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_heatmap_har.pdf): PDF inclusion: fo
 <../figs/fnlse_heatmap_har.pdf, id=515, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_heatmap_har.pdf Graphic file (type pdf)
 <use ../figs/fnlse_heatmap_har.pdf>
-Package pdftex.def Info: ../figs/fnlse_heatmap_har.pdf  used on input line 450.
+Package pdftex.def Info: ../figs/fnlse_heatmap_har.pdf  used on input line 458.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 469--472
+Underfull \hbox (badness 10000) in paragraph at lines 477--480
 
  []
 
@@ -964,7 +964,7 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_evolution_quar.pdf): PDF inclusion:
 <../figs/fnlse_evolution_quar.pdf, id=522, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_evolution_quar.pdf Graphic file (type pdf)
 <use ../figs/fnlse_evolution_quar.pdf>
-Package pdftex.def Info: ../figs/fnlse_evolution_quar.pdf  used on input line 475.
+Package pdftex.def Info: ../figs/fnlse_evolution_quar.pdf  used on input line 483.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -975,20 +975,20 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_heatmap_quar.pdf): PDF inclusion: f
 <../figs/fnlse_heatmap_quar.pdf, id=523, 602.25pt x 451.6875pt>
 File: ../figs/fnlse_heatmap_quar.pdf Graphic file (type pdf)
 <use ../figs/fnlse_heatmap_quar.pdf>
-Package pdftex.def Info: ../figs/fnlse_heatmap_quar.pdf  used on input line 481.
+Package pdftex.def Info: ../figs/fnlse_heatmap_quar.pdf  used on input line 489.
 (pdftex.def)             Requested size: 260.34273pt x 195.26256pt.
 
-Underfull \hbox (badness 1546) in paragraph at lines 495--505
+Underfull \hbox (badness 1546) in paragraph at lines 503--513
 \T1/cmr/m/n/10 In this project, I im-ple-mented the Split-Step Fourier
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 495--505
+Underfull \hbox (badness 1960) in paragraph at lines 503--513
 \T1/cmr/m/n/10 tech-nique for solv-ing time-dependent non-lin-ear par-tial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--505
+Underfull \hbox (badness 10000) in paragraph at lines 503--513
 
  []
 
@@ -1005,7 +1005,7 @@ pdfTeX warning: pdflatex (file ../figs/fnlse_evolution_har.pdf): PDF inclusion: 
 
 pdfTeX warning: pdflatex (file ../figs/fnlse_heatmap_har.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 506--509
+Underfull \hbox (badness 10000) in paragraph at lines 514--517
 
  []
 
@@ -1029,7 +1029,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,14n,79p,514b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx0800.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1000.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc2488.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm0700.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1440.pfb><C:/Users/slyro/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on report.pdf (8 pages, 1728335 bytes).
+Output written on report.pdf (8 pages, 1729572 bytes).
 PDF statistics:
  787 PDF objects out of 1000 (max. 8388607)
  63 named destinations out of 1000 (max. 500000)
